@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Raleway",sans-serif !important;
+    
+}
+.navbar{
+    background-image: repeating-linear-gradient(137deg, hsla(64,83%,54%,0.05) 0px, hsla(64,83%,54%,0.05) 1px,transparent 1px, transparent 11px,hsla(64,83%,54%,0.05) 11px, hsla(64,83%,54%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(182deg, hsla(64,83%,54%,0.05) 0px, hsla(64,83%,54%,0.05) 1px,transparent 1px, transparent 11px,hsla(64,83%,54%,0.05) 11px, hsla(64,83%,54%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(92deg, hsla(64,83%,54%,0.05) 0px, hsla(64,83%,54%,0.05) 1px,transparent 1px, transparent 11px,hsla(64,83%,54%,0.05) 11px, hsla(64,83%,54%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(227deg, hsla(64,83%,54%,0.05) 0px, hsla(64,83%,54%,0.05) 1px,transparent 1px, transparent 11px,hsla(64,83%,54%,0.05) 11px, hsla(64,83%,54%,0.05) 12px,transparent 12px, transparent 32px),linear-gradient(182deg, rgb(41, 27, 158),rgb(249, 77, 212));
+}
+.nav-link{
+/* color: white !important; */
+font-weight: bold !important;
+font-size: 1rem !important;
+}
+.nav-link:hover{
+    background-color: #F94DD4;
+color: black !important;
+border-radius: 10px;
+}
+.btn-primary:hover{
+    background-color: #F94DD4 !important;
+    border: none;
+}
+.navbar-toggler{
+background-color: #F94DD4 !important;
+
+}
+.butn{
+    background-color: #F94DD4 !important;
+border: none;
+color: black;
+font-weight: bold !important;
+}
+.butn:hover{
+    background-color: #7209b7 !important;
+border: none;
+color: black;
+font-weight: bold !important;
+}
+.tts{
+    color: #F94DD4 !important;
+}
+.card-title{
+    color: #F94DD4 !important;
+}
+.card-text{
+    color:#7209b7 !important;
+}
+.card-img-top{
+    height: 200px;
+    width: 200px;
+}
+.dishes{
+    background-image: repeating-linear-gradient(45deg, rgba(77, 253, 7,0.08) 0px, rgba(77, 253, 7,0.08) 1px,transparent 1px, transparent 9px),repeating-linear-gradient(135deg, rgba(77, 253, 7,0.08) 0px, rgba(77, 253, 7,0.08) 1px,transparent 1px, transparent 9px),linear-gradient(90deg, rgb(197, 229, 222),rgb(25, 29, 247));
+}
